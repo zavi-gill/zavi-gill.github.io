@@ -1,0 +1,19 @@
+#results {
+    display:none;
+  }
+body {
+    background: linear-gradient(to left, #5d94d3, #213944);
+}
+
+div.card.card-body {
+    background: rgb(130, 163, 182);
+}
+
+span.input-group-addon, h1, h5{
+    background:#000000ad;
+    color: white;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+}
